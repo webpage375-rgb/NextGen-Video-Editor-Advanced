@@ -1,0 +1,8 @@
+{
+  "name": "NextGen Video Editor",
+  "description": "Infinite-performance, browser-native video editing engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
